@@ -1,0 +1,47 @@
+1. Gender Distribution
+Mean gender value: 0.47 (where 0 is female and 1 is male, based on your prior boxplot)
+This means the dataset is fairly balanced between males and females, with about 47% male respondents.
+
+2. Screen Time (Weekdays and Weekends)
+Here’s a breakdown of the statistics for screen time across different devices and days:
+
+C_we (Computer time on weekends): Mean = 2.2 hours, Std = 2.07 hours
+C_wk (Computer time on weekdays): Mean = 1.77 hours, Std = 1.72 hours
+G_we (Video games on weekends): Mean = 1.73 hours, Std = 2.16 hours
+G_wk (Video games on weekdays): Mean = 1 hour, Std = 1.54 hours
+S_we (Smartphone time on weekends): Mean = 3.5 hours, Std = 2.49 hours
+S_wk (Smartphone time on weekdays): Mean = 2.89 hours, Std = 2.32 hours
+T_we (TV on weekends): Mean = 3.65 hours, Std = 1.94 hours
+T_wk (TV on weekdays): Mean = 2.55 hours, Std = 1.69 hours
+
+Weekend vs Weekday: Screen time across all devices is higher on weekends compared to weekdays (as expected).
+Smartphone usage is highest overall compared to other types of screen time, particularly on weekends (mean of 3.5 hours on weekends vs 2.9 hours on weekdays).
+Video games show high variability, with some respondents playing for as long as 7 hours, particularly on weekends, reflecting significant diversity in gaming behavior.
+
+
+3. Well-being Indicators (1-5 scale)
+The well-being scores, based on a scale from 1 to 5, show some interesting patterns across different emotions.
+
+Central Tendencies:
+Optimism (Optm): Mean = 3.28, Std = 1.00
+Cheerfulness (Cheer): Mean = 3.50, Std = 1.01
+Feeling loved (Loved): Mean = 3.85, Std = 0.97
+Feeling relaxed (Relx): Mean = 3.10, Std = 1.01
+Dealing with problems well (Dealpr): Mean = 3.37, Std = 1.05
+Feeling confident (Conf): Mean = 3.56, Std = 1.03
+
+
+
+Key Observations:
+
+Neutrality of Scores: Most well-being indicators have a mean close to 3 (the middle of the 1-5 scale), suggesting that respondents are generally neutral in their well-being.
+Exception: Loved (Mean = 3.85): The "Feeling loved" indicator stands out with a higher mean score compared to the other indicators.
+This suggests that most respondents feel a strong sense of being loved.
+Lower Scores: Relaxation (Mean = 3.1): The "Feeling relaxed" indicator is lower compared to others, which could suggest that many respondents are experiencing stress or difficulty in feeling calm.
+
+Standard Deviations:
+Most well-being indicators have a standard deviation close to 1, indicating a relatively wide spread of responses across the scale, with some respondents feeling very positive and others feeling quite negative.
+
+
+High Feeling Loved but Low Relaxation: There’s a contrast between the high feeling of being loved (Mean = 3.85) and the lower levels of relaxation (Mean = 3.1).
+This could indicate that even though adolescents feel supported emotionally, they may still experience stress, possibly due to academic pressure, social media, or screen time itself.

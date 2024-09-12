@@ -1,0 +1,67 @@
+1. T-test: Comparing Well-being Scores Between Deprived and Non-Deprived Grou
+
+Kruskal-Wallis Test for Optm: H-statistic = 26.6863, p-value = 0.0000
+Kruskal-Wallis Test for Cheer: H-statistic = 18.6403, p-value = 0.0003
+Kruskal-Wallis Test for Loved: H-statistic = 15.8067, p-value = 0.0012
+Kruskal-Wallis Test for Conf: H-statistic = 37.6329, p-value = 0.0000
+Kruskal-Wallis Test for Dealpr: H-statistic = 5.7510, p-value = 0.1244
+Kruskal-Wallis Test for Relx: H-statistic = 1.3089, p-value = 0.7270
+Kruskal-Wallis Test for Engs: H-statistic = 17.5677, p-value = 0.0005
+Kruskal-Wallis Test for Intp: H-statistic = 14.1404, p-value = 0.0027
+
+
+Given that the mean scores are quite similar between the deprived and non-deprived groups but the t-test results show significant differences, here’s a concise conclusion in three well-descriptive points:
+
+#### 1. Significant but Subtle Differences in Emotional Well-being:
+Although the mean well-being scores between deprived and non-deprived groups are very similar, the t-test reveals that non-deprived adolescents consistently report slightly higher scores in optimism, cheerfulness, and feeling loved.
+These small differences are statistically significant, suggesting that while the overall emotional well-being is comparable, adolescents in deprived areas may face subtle but meaningful disadvantages in these aspects.
+
+#### 2. Coping with Challenges and Social Engagement:
+The ability to deal with problems and the level of interest in others show some of the largest and most statistically significant differences.
+Non-deprived adolescents report feeling better equipped to handle challenges and more socially engaged, while adolescents in deprived areas may experience greater difficulties with problem-solving and social connection, despite the overall mean scores being close.
+
+#### 3. Limited Impact on Relaxation, Confidence, and Energy:
+Interestingly, no significant differences were found in the areas of relaxation, confidence, and energy levels between the two groups.
+This suggests that these well-being indicators are not strongly influenced by deprivation, with adolescents across both groups experiencing similar levels of relaxation and self-confidence, regardless of their socioeconomic background.
+
+
+These points encapsulate the findings: despite minor differences in the mean well-being scores, emotional and social well-being shows significant disparities that merit attention, especially in how deprived adolescents cope with problems and engage socially.
+
+
+
+
+
+2. Kruskal-Wallis Test: Non-parametric Test for Well-being and Screen Time (as it is ordinal data)
+
+Kruskal-Wallis is the better choice here for handling this ordinal data (rating: 1-5), especially when we are comparing multiple groups.
+Since ordinal data is not continuous and may not follow a normal distribution, Kruskal-Wallis is more appropriate than parametric tests like ANOVA, which assume normally distributed, continuous data.
+
+Kruskal-Wallis Test for Optm: H-statistic = 26.6863, p-value = 0.0000
+Kruskal-Wallis Test for Cheer: H-statistic = 18.6403, p-value = 0.0003
+Kruskal-Wallis Test for Loved: H-statistic = 15.8067, p-value = 0.0012
+Kruskal-Wallis Test for Conf: H-statistic = 37.6329, p-value = 0.0000
+Kruskal-Wallis Test for Dealpr: H-statistic = 5.7510, p-value = 0.1244
+Kruskal-Wallis Test for Relx: H-statistic = 1.3089, p-value = 0.7270
+Kruskal-Wallis Test for Engs: H-statistic = 17.5677, p-value = 0.0005
+Kruskal-Wallis Test for Intp: H-statistic = 14.1404, p-value = 0.0027
+
+
+#### 1. Emotional Well-being Declines with Increased Screen Time
+Significant differences were found in **optimism** (H = 26.69, p < 0.001), **cheerfulness** (H = 18.64, p < 0.001), and **feeling loved** (H = 15.81, p = 0.001) across screen time categories.
+Adolescents with **higher screen time** report lower scores in these areas, indicating a **negative correlation** between screen time and emotional well-being, which suggests that excessive screen usage might reduce happiness and feelings of connection.
+
+Higher screen time could be correlated with lower levels of **happiness or cheerfulness**, suggesting that increased digital consumption may contribute to emotional fatigue.
+
+Higher screen time may contribute to feelings of isolation or reduced connection with family or friends (**feeling loved**), especially in the "very high" screen time category.
+
+#### 2. Confidence and Social Interest Decrease with More Screen Time
+Screen time also correlates with lower **confidence** (H = 37.63, p < 0.001) and **interest in others** (H = 14.14, p = 0.003),
+reflecting a **significant relationship** where those with higher screen time tend to report less self-confidence and social engagement, possibly due to social withdrawal or comparison.
+
+Adolescents with higher screen time might have **lower self-confidence**, possibly due to increased exposure to social comparison (e.g., on social media), or it could reflect disengagement from activities that build self-assurance.
+
+#### 3. Coping Ability and Relaxation Are Unaffected by Screen Time
+No significant correlation was found between screen time and the ability to **deal with problems** (H = 5.75, p = 0.12) or
+**relaxation** (H = 1.31, p = 0.73), indicating that these aspects of well-being are largely unaffected by screen time and likely influenced by other factors. 
+
+These results underline the **negative impact of excessive screen time** on emotional and social well-being, while showing that coping skills and relaxation remain stable.
