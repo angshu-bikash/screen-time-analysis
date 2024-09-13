@@ -1,16 +1,15 @@
 1. T-test: Comparing Well-being Scores Between Deprived and Non-Deprived Grou
 
-Kruskal-Wallis Test for Optm: H-statistic = 26.6863, p-value = 0.0000
-Kruskal-Wallis Test for Cheer: H-statistic = 18.6403, p-value = 0.0003
-Kruskal-Wallis Test for Loved: H-statistic = 15.8067, p-value = 0.0012
-Kruskal-Wallis Test for Conf: H-statistic = 37.6329, p-value = 0.0000
-Kruskal-Wallis Test for Dealpr: H-statistic = 5.7510, p-value = 0.1244
-Kruskal-Wallis Test for Relx: H-statistic = 1.3089, p-value = 0.7270
-Kruskal-Wallis Test for Engs: H-statistic = 17.5677, p-value = 0.0005
-Kruskal-Wallis Test for Intp: H-statistic = 14.1404, p-value = 0.0027
-
-
 Given that the mean scores are quite similar between the deprived and non-deprived groups but the t-test results show significant differences, here’s a concise conclusion in three well-descriptive points:
+
+T-test for Optm: t-statistic = -2.7814, p-value = 0.0054
+T-test for Cheer: t-statistic = -9.5911, p-value = 0.0000
+T-test for Loved: t-statistic = -9.7919, p-value = 0.0000
+T-test for Conf: t-statistic = -1.2680, p-value = 0.2048
+T-test for Dealpr: t-statistic = -10.6048, p-value = 0.0000
+T-test for Relx: t-statistic = 0.4683, p-value = 0.6395
+T-test for Engs: t-statistic = 1.6483, p-value = 0.0993
+T-test for Intp: t-statistic = -32.0802, p-value = 0.0000
 
 #### 1. Significant but Subtle Differences in Emotional Well-being:
 Although the mean well-being scores between deprived and non-deprived groups are very similar, the t-test reveals that non-deprived adolescents consistently report slightly higher scores in optimism, cheerfulness, and feeling loved.
